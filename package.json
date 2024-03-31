@@ -1,6 +1,6 @@
 {
   "name": "onedionys-social-media-meta-tags-generator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "One Dionys (Social Media Meta Tags Generator) - A utility to generate and add custom meta tags for sharing app content to social media platforms, increasing visibility.",
   "main": "src/index.js",
   "directories": {
